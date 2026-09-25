@@ -1,0 +1,8 @@
+# Library helper: connects the original OBJ to its supplied texture.
+newmtl Mikey
+Kd 1 1 1
+Ka 0 0 0
+d 1
+illum 2
+map_Kd mikey-texture.png
+
