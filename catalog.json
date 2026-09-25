@@ -1,0 +1,2030 @@
+{
+  "name": "Mikey & JJ Asset Library",
+  "asset_count": 101,
+  "updated_at": "2026-09-25",
+  "counting_policy": "Original catalog entries only; thumbnails, documentation, and helper materials are excluded. Exact duplicates and visually repeated size/language variants were removed.",
+  "assets": [
+    {
+      "id": "jj-character",
+      "title": "JJ character introduction",
+      "characters": [
+        "jj"
+      ],
+      "category": "character-art",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2024/04/Zenichi-1.png",
+      "source_page": "https://www.maizen.com/about/",
+      "path": "assets/jj-character.png",
+      "bytes": 398111,
+      "sha256": "20be7a434aaefa136987ae7694e902307afb837810d74b2806d33d8a5ef18792",
+      "content_type": "image/png",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders; no redistribution or reuse license inferred.",
+      "width": 2560,
+      "height": 2559,
+      "has_alpha": false,
+      "source_type": "official"
+    },
+    {
+      "id": "mikey-character",
+      "title": "Mikey character introduction",
+      "characters": [
+        "mikey"
+      ],
+      "category": "character-art",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2024/04/Mikey-1.png",
+      "source_page": "https://www.maizen.com/about/",
+      "path": "assets/mikey-character.png",
+      "bytes": 302905,
+      "sha256": "a03f57cd0f9b55b43bf8759e7b5f7e04b42cd98aaf88e79fcedc517ed262d8cc",
+      "content_type": "image/png",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders; no redistribution or reuse license inferred.",
+      "width": 2560,
+      "height": 2559,
+      "has_alpha": false,
+      "source_type": "official"
+    },
+    {
+      "id": "jj-model-preview",
+      "title": "JJ 3D model preview",
+      "characters": [
+        "jj"
+      ],
+      "category": "model-preview",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2022/12/JJ_Preview.png",
+      "source_page": "https://www.maizen.com/downloads/",
+      "path": "assets/jj-model-preview.png",
+      "bytes": 36473,
+      "sha256": "b46cb1d68d265afe71baf57e282b2831a240ec8712d72eda2e374a2ac6bc35fb",
+      "content_type": "image/png",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders; no redistribution or reuse license inferred.",
+      "width": 406,
+      "height": 363,
+      "has_alpha": false,
+      "source_type": "official"
+    },
+    {
+      "id": "jj-texture",
+      "title": "JJ official model texture",
+      "characters": [
+        "jj"
+      ],
+      "category": "texture",
+      "source_url": "https://maizen.com/wp-content/uploads/2022/12/JJ_Texture.png",
+      "source_page": "https://www.maizen.com/downloads/",
+      "path": "assets/jj-texture.png",
+      "bytes": 56680,
+      "sha256": "8802f04059a6ee7324ca99967da7d3514e725f79c77e0e79cc2fbb16c3a3bb6f",
+      "content_type": "image/png",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders; no redistribution or reuse license inferred.",
+      "width": 2048,
+      "height": 2048,
+      "has_alpha": false,
+      "source_type": "official"
+    },
+    {
+      "id": "jj-model",
+      "title": "JJ high-poly OBJ model",
+      "characters": [
+        "jj"
+      ],
+      "category": "model",
+      "source_url": "https://maizen.com/wp-content/uploads/3d-models/JJ_Highpoly.obj",
+      "source_page": "https://www.maizen.com/downloads/",
+      "path": "assets/jj-model.obj",
+      "bytes": 564070,
+      "sha256": "1e7978c52d5e6cacea2c5c79c03185b69720506cc4f3ad90188ee0f98bb9e0e3",
+      "content_type": "application/octet-stream",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders; no redistribution or reuse license inferred.",
+      "source_type": "official",
+      "preview": "assets/jj-model-preview.png"
+    },
+    {
+      "id": "mikey-model-preview",
+      "title": "Mikey 3D model preview",
+      "characters": [
+        "mikey"
+      ],
+      "category": "model-preview",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2022/12/Mikey_Preview.png",
+      "source_page": "https://www.maizen.com/downloads/",
+      "path": "assets/mikey-model-preview.png",
+      "bytes": 24715,
+      "sha256": "6bce0610b9e3edad55133e11fb270293866a290aa43a5116e9a7c9041c654f39",
+      "content_type": "image/png",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders; no redistribution or reuse license inferred.",
+      "width": 287,
+      "height": 363,
+      "has_alpha": false,
+      "source_type": "official"
+    },
+    {
+      "id": "mikey-texture",
+      "title": "Mikey official model texture",
+      "characters": [
+        "mikey"
+      ],
+      "category": "texture",
+      "source_url": "https://maizen.com/wp-content/uploads/2022/12/Mikey.001.png",
+      "source_page": "https://www.maizen.com/downloads/",
+      "path": "assets/mikey-texture.png",
+      "bytes": 26275,
+      "sha256": "a11697f69ee7f76c06124472b4021ae732cb8098193152f080d3327050f6f6c2",
+      "content_type": "image/png",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders; no redistribution or reuse license inferred.",
+      "width": 2048,
+      "height": 2048,
+      "has_alpha": false,
+      "source_type": "official"
+    },
+    {
+      "id": "mikey-model",
+      "title": "Mikey high-poly OBJ model",
+      "characters": [
+        "mikey"
+      ],
+      "category": "model",
+      "source_url": "https://maizen.com/wp-content/uploads/3d-models/Mikey_Highpoly.obj",
+      "source_page": "https://www.maizen.com/downloads/",
+      "path": "assets/mikey-model.obj",
+      "bytes": 321311,
+      "sha256": "6883a7a88e65b6ba6a49a92fc4316011bb3a9ab0448543aab308ca10f3df881a",
+      "content_type": "application/octet-stream",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders; no redistribution or reuse license inferred.",
+      "source_type": "official",
+      "preview": "assets/mikey-model-preview.png"
+    },
+    {
+      "id": "coloring-01",
+      "title": "Official coloring sheet 1",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "coloring",
+      "source_url": "https://maizen.com/wp-content/uploads/2022/05/ぬりえ1.jpg",
+      "source_page": "https://www.maizen.com/downloads/",
+      "path": "assets/coloring-01.jpg",
+      "bytes": 23649,
+      "sha256": "712b9fdc81e17788c34f28f0c96ee2419b1c83d50db642eea41e2a2bd8d934ab",
+      "content_type": "image/jpeg",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders; no redistribution or reuse license inferred.",
+      "width": 1000,
+      "height": 707,
+      "has_alpha": false,
+      "source_type": "official"
+    },
+    {
+      "id": "coloring-03",
+      "title": "Official coloring sheet 3",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "coloring",
+      "source_url": "https://maizen.com/wp-content/uploads/2022/08/2_E.jpg",
+      "source_page": "https://www.maizen.com/downloads/",
+      "path": "assets/coloring-03.jpg",
+      "bytes": 63909,
+      "sha256": "6bc3270fb81fd7236ad6a15dd6e51a81a6e4a25e23ab11c3637025a7daaeac30",
+      "content_type": "image/jpeg",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders; no redistribution or reuse license inferred.",
+      "width": 1754,
+      "height": 1240,
+      "has_alpha": false,
+      "source_type": "official"
+    },
+    {
+      "id": "coloring-04",
+      "title": "Official coloring sheet 4",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "coloring",
+      "source_url": "https://maizen.com/wp-content/uploads/2022/08/7_E.jpg",
+      "source_page": "https://www.maizen.com/downloads/",
+      "path": "assets/coloring-04.jpg",
+      "bytes": 75285,
+      "sha256": "43ebaf14f90f6901dfe7d3c38c45c07e70534aca2bc23a3f640f1f2fc41b8bed",
+      "content_type": "image/jpeg",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders; no redistribution or reuse license inferred.",
+      "width": 1240,
+      "height": 1754,
+      "has_alpha": false,
+      "source_type": "official"
+    },
+    {
+      "id": "coloring-05",
+      "title": "Official coloring sheet 5",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "coloring",
+      "source_url": "https://maizen.com/wp-content/uploads/2022/04/ぬりえ5.jpg",
+      "source_page": "https://www.maizen.com/downloads/",
+      "path": "assets/coloring-05.jpg",
+      "bytes": 259267,
+      "sha256": "d23f9a93e9c2be9269307470a09cf4549417eb26ffcbeb5a0c9b93b8b2d29d0b",
+      "content_type": "image/jpeg",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders; no redistribution or reuse license inferred.",
+      "width": 1000,
+      "height": 1415,
+      "has_alpha": false,
+      "source_type": "official"
+    },
+    {
+      "id": "coloring-06",
+      "title": "Official coloring sheet 6",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "coloring",
+      "source_url": "https://maizen.com/wp-content/uploads/2022/04/ぬりえ6.jpg",
+      "source_page": "https://www.maizen.com/downloads/",
+      "path": "assets/coloring-06.jpg",
+      "bytes": 325845,
+      "sha256": "1ab0867581632b0a92e700ea458ff82e42ea5ed4c14a6747ed8f3a2dd063d682",
+      "content_type": "image/jpeg",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders; no redistribution or reuse license inferred.",
+      "width": 1000,
+      "height": 707,
+      "has_alpha": false,
+      "source_type": "official"
+    },
+    {
+      "id": "wiki-mikey-01",
+      "title": "Mikey V1 · standing",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-01.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/f/f6/MikeyV1.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 256,
+      "height": 334,
+      "bytes": 15808,
+      "has_alpha": true,
+      "sha256": "436e0724d3faa7c8e03dca306328e3c8f43ebbf2df032552d42745e69aaf46dc",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-02",
+      "title": "Mikey V1 · sitting",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-02.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/f/fe/Mikeyv1_sitting.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 275,
+      "height": 308,
+      "bytes": 16688,
+      "has_alpha": true,
+      "sha256": "2509331c823c5c7627c53c60e4fcea07cb3a4dd8df74e2189f8e20397ca0973d",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-03",
+      "title": "Mikey V1 · curious",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-03.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/0/0e/Mikeyv1_curious.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 306,
+      "height": 297,
+      "bytes": 12436,
+      "has_alpha": true,
+      "sha256": "096b3d067cd77839e7546290a9102076b40bf8b81e703a1948d2fd6fb23dbd46",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-04",
+      "title": "Mikey V1 · jumping",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-04.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/b/bb/Mikeyv1_jumping.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 322,
+      "height": 365,
+      "bytes": 19642,
+      "has_alpha": true,
+      "sha256": "8b354e44c64bea111070e098edc7b3c5a94d0301e7666a4a2c026dea401f652f",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-05",
+      "title": "Mikey V1 · happy",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-05.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/9/9f/Mikeyv1_happy.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 280,
+      "height": 346,
+      "bytes": 16632,
+      "has_alpha": true,
+      "sha256": "acc485212fcd31bbb571b3cd13dda2ffecfd4104f860142f8dccde8668dab64a",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-06",
+      "title": "Mikey V1 · jumping again",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-06.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/b/b4/Mikeyv1_jumping_again.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 319,
+      "height": 386,
+      "bytes": 17538,
+      "has_alpha": true,
+      "sha256": "18aaee4dfa53e135f052829c52d9f0053045a91e8ca3c7163645b9f1932df8d5",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-07",
+      "title": "Mikey V1 · nodding",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-07.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/9/92/Mikeyv1_nodding.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 470,
+      "height": 531,
+      "bytes": 21570,
+      "has_alpha": true,
+      "sha256": "8133a084b9f45f2bc690297167fa61b15b3ba9b731193a750855a86008948f1d",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-08",
+      "title": "Mikey V1 · nervous",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-08.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/7/7b/Mikeyv1_nervous.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 421,
+      "height": 593,
+      "bytes": 30902,
+      "has_alpha": true,
+      "sha256": "1a5bb000d8fc0c2f76a2702aa13636b42f5e8760dbc15850baa8fd3eac099c34",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-09",
+      "title": "Mikey V1 · blushing",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-09.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/5/5e/Mikeyv1_blushing.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 469,
+      "height": 532,
+      "bytes": 30372,
+      "has_alpha": true,
+      "sha256": "a6369504c6dfc295a48001fa98b5a63959bf12100739a73454fac3033ee504ee",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-10",
+      "title": "Mikey V1 · running angry",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-10.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/1/1e/Mikeyv1_running_angry.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 437,
+      "height": 479,
+      "bytes": 23914,
+      "has_alpha": true,
+      "sha256": "bc260499d1cacc376e9247ff7ba53dd5716839b2e004fd255f1615e1712b2509",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-11",
+      "title": "Mikey V1 · running angry again",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-11.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/7/7a/Mikeyv1_running_angry_again.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 259,
+      "height": 147,
+      "bytes": 8934,
+      "has_alpha": true,
+      "sha256": "7ba0cfe6ea65da699c8b58eac839318e02e114df5cf64b5e1e746a4839f2b9e8",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-12",
+      "title": "Mikey V1 · pleading",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-12.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/9/90/Mikeyv1_pleading.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 347,
+      "height": 416,
+      "bytes": 18428,
+      "has_alpha": true,
+      "sha256": "3141032bcb1b326a58b596ade164a9c7f709eeab3327a58e36b53d443c577632",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-13",
+      "title": "Mikey V1 · king",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-13.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/4/4e/Mikeyv1_king.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 421,
+      "height": 593,
+      "bytes": 29040,
+      "has_alpha": true,
+      "sha256": "65d98380bb2b2a8f60ac5a51ca5190bc46e969651ffcd81fa5cf51e455ee56f9",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-14",
+      "title": "Mikey V1 · shocked",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-14.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/5/56/Mikeyv1_shocked.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 275,
+      "height": 316,
+      "bytes": 18942,
+      "has_alpha": true,
+      "sha256": "4a895e679e097ec476abe1b6cf9c35527a8da272dffd82a17b8fd424479251f4",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-15",
+      "title": "Mikey V1 · wave",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-15.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/7/71/Mikeyv1_wave.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 275,
+      "height": 343,
+      "bytes": 18170,
+      "has_alpha": true,
+      "sha256": "4c85504af64eb6b2d9ce015215b1bffdf72233ef33ac2df7700faac0c0d6f752",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-16",
+      "title": "Mikey V2 · hello",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-16.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/7/76/Mikeyv2_hello.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 370,
+      "height": 483,
+      "bytes": 28490,
+      "has_alpha": true,
+      "sha256": "2d69a81efcbb170988948f7d82415d663626b8b94d8990b584bd65e35f9b722a",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-17",
+      "title": "Mikey V2 · seated",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-17.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/c/c4/Mikeyv2.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 346,
+      "height": 413,
+      "bytes": 25328,
+      "has_alpha": true,
+      "sha256": "51342e9b4a4fe921ff5555aaef44ae6a99f4cf28042bb0fa53e0c996b73e5a13",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-18",
+      "title": "Mikey V2 · showing",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-18.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/4/42/Mikeyv2_showing.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 345,
+      "height": 413,
+      "bytes": 23320,
+      "has_alpha": true,
+      "sha256": "60fff988e7f74ff3b556fa2f1cfa01e0acdb6129c238ff9ed8ba8d51b0aa8612",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-19",
+      "title": "Mikey V2 · style",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-19.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/5/56/Mikeyv2_style.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 363,
+      "height": 413,
+      "bytes": 23684,
+      "has_alpha": true,
+      "sha256": "a0843c8995320625f0cfcf633e341aa823eb231dfe09eaad42d11e0dda14764b",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-20",
+      "title": "Mikey V2 · polite",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-20.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/a/ae/Mikeyv2_polite.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 383,
+      "height": 450,
+      "bytes": 28622,
+      "has_alpha": true,
+      "sha256": "23a57c69c7743568febc29aca05d1584bdf8fefbe05b26410029da5e1ed4f2d1",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-21",
+      "title": "Mikey V2 · flying",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-21.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/0/01/Mikeyv2_flying.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 431,
+      "height": 383,
+      "bytes": 23726,
+      "has_alpha": true,
+      "sha256": "b52e95edd2520c3b774d054778ab2b7876a669e1f9f20eeb9876f5e387ba5a78",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-22",
+      "title": "Mikey V2 · wow",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-22.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/c/c9/Mikeyv2_wow.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 349,
+      "height": 489,
+      "bytes": 27034,
+      "has_alpha": true,
+      "sha256": "defb1d12d6af5f4a90cb58582e9760fa9d4198898cb57b422eac203a64e53e85",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-23",
+      "title": "Mikey V2 · walking",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-23.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/a/af/Mikeyv2_walking.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 827,
+      "height": 1125,
+      "bytes": 61402,
+      "has_alpha": true,
+      "sha256": "38842569cd796f32aee425cbaa5340ebf6fe5297d4b7827c004549f3b46f6444",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-24",
+      "title": "Mikey V2 · surprised",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-24.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/9/90/Mikeyv2_suprised.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 1019,
+      "height": 1163,
+      "bytes": 89444,
+      "has_alpha": true,
+      "sha256": "82a22afca3985da4c999e0ff9e9938c16f7c56fcea2d9d28cd478efcd0cde0dc",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-25",
+      "title": "Mikey V2 · bellydown",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-25.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/c/cb/Mikeyv2_bellydown.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 626,
+      "height": 411,
+      "bytes": 33584,
+      "has_alpha": true,
+      "sha256": "382bba0825be123cfdf23d03094814630504a7f2dc929c1ffd71b0cbbbc0ec29",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-26",
+      "title": "Mikey V2 · highfive",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-26.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/2/22/Mikeyv2_highfive.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 749,
+      "height": 958,
+      "bytes": 62810,
+      "has_alpha": true,
+      "sha256": "7523d363c24a425fcff4cdbfce7fb01151f80f1bfa2ae47c20bfa2a2d86f62df",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-27",
+      "title": "Mikey V2 · sitwave",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-27.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/c/cc/Mikeyv2_sitwave.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 874,
+      "height": 1055,
+      "bytes": 59514,
+      "has_alpha": true,
+      "sha256": "5137bdefe9dd18ad2792b7a7a8c215ff463bff0e11d6246eb67394bbfb842b83",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-28",
+      "title": "Mikey V2 · backside",
+      "characters": [
+        "mikey"
+      ],
+      "category": "pose",
+      "path": "assets/wiki-mikey-28.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/e/e2/Mikeyv2_backside.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 636,
+      "height": 862,
+      "bytes": 44730,
+      "has_alpha": true,
+      "sha256": "a19c8c37bc5595779e273e75c75138e5b2d062fe51029b1193bd559f8372c7f8",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-29",
+      "title": "MCnoobvspro securitytower",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "gameplay-reference",
+      "path": "assets/wiki-mikey-29.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/9/91/MCnoobvspro_securitytower.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 640,
+      "height": 360,
+      "bytes": 27054,
+      "has_alpha": false,
+      "sha256": "dd8f46a8c0429ae0f25d66eeff13e236e085279ec00cf58bd3284b0d7c4ff54f",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-30",
+      "title": "MC10secutiryhacksvszombies",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "gameplay-reference",
+      "path": "assets/wiki-mikey-30.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/d/df/MC10secutiryhacksvszombies.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 640,
+      "height": 360,
+      "bytes": 31178,
+      "has_alpha": false,
+      "sha256": "5d406ed4ac7913120397d0dc928ec23b9af2641cc6b351a0f51b014382ba3fcc",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-31",
+      "title": "MC7securityhacksvspillagers",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "gameplay-reference",
+      "path": "assets/wiki-mikey-31.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/4/41/MC7securityhacksvspillagers.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 640,
+      "height": 360,
+      "bytes": 47198,
+      "has_alpha": false,
+      "sha256": "797a22ac4c30bf43b24ce6866215c40c38855bd87fdef79972e9d99ab9779b05",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-32",
+      "title": "RBgianttinyobby",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "gameplay-reference",
+      "path": "assets/wiki-mikey-32.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/3/3b/RBgianttinyobby.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 640,
+      "height": 360,
+      "bytes": 29866,
+      "has_alpha": false,
+      "sha256": "7f17983b04074e093589bcbad2f6cf969842a109692693c440f8a77f0eadacb7",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-33",
+      "title": "RBpizzeriaobby",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "gameplay-reference",
+      "path": "assets/wiki-mikey-33.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/0/04/RBpizzeriaobby.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 640,
+      "height": 360,
+      "bytes": 44580,
+      "has_alpha": false,
+      "sha256": "85c034a6c97afd10b03f88eead5d1f1064a54b36511c32beaebcb5b074a0c9da",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-34",
+      "title": "RBsquidgame",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "gameplay-reference",
+      "path": "assets/wiki-mikey-34.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/8/88/RBsquidgame.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 640,
+      "height": 360,
+      "bytes": 63676,
+      "has_alpha": false,
+      "sha256": "54d59b4735a7937852de165b0561081666a1f39bf2086daf797af39e6bdf22f8",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-35",
+      "title": "Mikeyminecraftskin",
+      "characters": [
+        "mikey"
+      ],
+      "category": "gameplay-reference",
+      "path": "assets/wiki-mikey-35.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/2/28/Mikeyminecraftskin.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 516,
+      "height": 1032,
+      "bytes": 774,
+      "has_alpha": true,
+      "sha256": "63517d80c3fc87567f325323161caac656c7f1f7a59a81c3a54d29f094e64543",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-36",
+      "title": "Mikeyroblox",
+      "characters": [
+        "mikey"
+      ],
+      "category": "gameplay-reference",
+      "path": "assets/wiki-mikey-36.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/8/8b/Mikeyroblox.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 285,
+      "height": 405,
+      "bytes": 14972,
+      "has_alpha": false,
+      "sha256": "242d0ebd6977e837aabab4c7b741f9a8aa0aa81aa9087d8cce896fc368652012",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-37",
+      "title": "Mikeyhumanfallflat",
+      "characters": [
+        "mikey"
+      ],
+      "category": "gameplay-reference",
+      "path": "assets/wiki-mikey-37.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/9/95/Mikeyhumanfallflat.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 119,
+      "height": 180,
+      "bytes": 2706,
+      "has_alpha": false,
+      "sha256": "dd34d097eb7d4c666db3996e6e93199aeaf59f014188036632db03f770120390",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-38",
+      "title": "Mikeyminecraft3d",
+      "characters": [
+        "mikey"
+      ],
+      "category": "gameplay-reference",
+      "path": "assets/wiki-mikey-38.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/4/4b/Mikeyminecraft3d.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 178,
+      "height": 193,
+      "bytes": 5166,
+      "has_alpha": false,
+      "sha256": "1448d65d2ce23c91bbfc857d35d98e514d05326ae71565354c4357cd34e97416",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "wiki-mikey-39",
+      "title": "Maizenduovrmoving",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "gameplay-reference",
+      "path": "assets/wiki-mikey-39.png",
+      "source_url": "https://static.wikia.nocookie.net/maizensisters/images/6/65/Maizenduovrmoving.png/revision/latest",
+      "source_page": "https://fanmaizen.fandom.com/wiki/Mikey/Gallery",
+      "source_type": "community-wiki",
+      "width": 587,
+      "height": 316,
+      "bytes": 17880,
+      "has_alpha": false,
+      "sha256": "3b9bbb52ee6b3580890e4cc378dca1bd40ad8ea8224750505f003ac76eb7099d",
+      "retrieved_at": "2026-09-25",
+      "rights": "Third-party character artwork. Copyright remains with its respective rights holders; wiki hosting is not a blanket image license."
+    },
+    {
+      "id": "official-7774",
+      "title": "Maizen summer event illustration",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7774.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2026/07/コラボカフェ-kv-1.jpg",
+      "source_page": "https://www.maizen.com/%e3%82%b3%e3%83%a9%e3%83%9c%e3%82%ab%e3%83%95%e3%82%a7-kv-2/",
+      "source_type": "official",
+      "width": 2000,
+      "height": 1125,
+      "bytes": 1016470,
+      "has_alpha": false,
+      "sha256": "c6cfcbb818aab74d028b7c9abd62f2569a0a6fc99de5369e3042b8581055c0bd",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "コラボカフェ kv"
+    },
+    {
+      "id": "official-7771",
+      "title": "Maizen pop-up shop poster",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7771.png",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2026/07/KV-POPUP-1-1.png",
+      "source_page": "https://www.maizen.com/kv-popup-1-2/",
+      "source_type": "official",
+      "width": 2501,
+      "height": 2501,
+      "bytes": 764119,
+      "has_alpha": true,
+      "sha256": "35391e34f1857aa812a2a77c6293d49a9c1934a6d5aebb045ef1ad8186f41d6d",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "KV POPUP (1)"
+    },
+    {
+      "id": "official-7758",
+      "title": "Maizen comic adventure cover",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7758.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2026/07/9巻書影.jpg",
+      "source_page": "https://www.maizen.com/9%e5%b7%bb%e6%9b%b8%e5%bd%b1/",
+      "source_type": "official",
+      "width": 652,
+      "height": 1000,
+      "bytes": 352476,
+      "has_alpha": false,
+      "sha256": "d3297ff07f2fb007f391059236e9c907c2b1fc9e8ef7b87c5680711c19352110",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "9巻書影"
+    },
+    {
+      "id": "official-7663",
+      "title": "Maizen spooky adventure cover",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7663.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2026/03/書影-キミノベル8巻.jpg",
+      "source_page": "https://www.maizen.com/%e6%9b%b8%e5%bd%b1-%e3%82%ad%e3%83%9f%e3%83%8e%e3%83%99%e3%83%ab8%e5%b7%bb/",
+      "source_type": "official",
+      "width": 657,
+      "height": 1000,
+      "bytes": 134974,
+      "has_alpha": false,
+      "sha256": "c1f7b46c6cc9fb4584079a49204a86a769adeee81b08cddc8cd1275844dea02d",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "書影 キミノベル8巻"
+    },
+    {
+      "id": "official-7654",
+      "title": "Maizen character sticker collection",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7654.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2026/03/ステッカー.jpg",
+      "source_page": "https://www.maizen.com/%e3%82%b9%e3%83%86%e3%83%83%e3%82%ab%e3%83%bc-2/",
+      "source_type": "official",
+      "width": 1390,
+      "height": 2074,
+      "bytes": 269414,
+      "has_alpha": false,
+      "sha256": "32025f26826967d4d8ada178343061758d8182e4c98402a58c3f2ae117762b03",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "ステッカー"
+    },
+    {
+      "id": "official-7647",
+      "title": "Maizen zombie escape cover",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7647.png",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2026/03/よみもノベル２書影.png",
+      "source_page": "https://www.maizen.com/goods_20260330/attachment/%e3%82%88%e3%81%bf%e3%82%82%e3%83%8e%e3%83%99%e3%83%ab%ef%bc%92%e6%9b%b8%e5%bd%b1/",
+      "source_type": "official",
+      "width": 704,
+      "height": 1000,
+      "bytes": 413906,
+      "has_alpha": false,
+      "sha256": "d78cde41b16fea2f1f8ceffc5d6766fe5570ffbf39457eddb2b2b07ac43e8532",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "よみもノベル２書影"
+    },
+    {
+      "id": "official-7593",
+      "title": "Maizencraft Slime Caverns artwork",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7593.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2026/03/Maizencraft_slime_caverns_MarketingKeyArt.jpg",
+      "source_page": "https://www.maizen.com/news/maizen-comes-to-the-minecraft-marketplace/attachment/maizencraft_slime_caverns_marketingkeyart/",
+      "source_type": "official",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 1811604,
+      "has_alpha": false,
+      "sha256": "336bd066126d8992130a19209c992ffe2d2afc5adc9e9fcbd59e3de6bebb615e",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "Maizencraft_slime_caverns_MarketingKeyArt"
+    },
+    {
+      "id": "official-7575",
+      "title": "Maizen mathematics puzzle cover",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7575.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2026/02/『まいぜん算数パズル』書影（軽）.jpg",
+      "source_page": "https://www.maizen.com/%e3%80%8e%e3%81%be%e3%81%84%e3%81%9c%e3%82%93%e7%ae%97%e6%95%b0%e3%83%91%e3%82%ba%e3%83%ab%e3%80%8f%e6%9b%b8%e5%bd%b1%ef%bc%88%e8%bb%bd%ef%bc%89/",
+      "source_type": "official",
+      "width": 543,
+      "height": 794,
+      "bytes": 188751,
+      "has_alpha": false,
+      "sha256": "048fe307ecbf0f9e39bc46bf525f502b256c38dbf7dac8a73d51a319c826a499",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "『まいぜん算数パズル』書影（軽）"
+    },
+    {
+      "id": "official-7234",
+      "title": "Maizen city puzzle illustration",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7234.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2025/06/よみもノベルさがせあそび.jpg",
+      "source_page": "https://www.maizen.com/%e3%82%88%e3%81%bf%e3%82%82%e3%83%8e%e3%83%99%e3%83%ab%e3%81%95%e3%81%8c%e3%81%9b%e3%81%82%e3%81%9d%e3%81%b3/",
+      "source_type": "official",
+      "width": 892,
+      "height": 635,
+      "bytes": 228213,
+      "has_alpha": false,
+      "sha256": "56c04bc5eecca411c3937c3e5299761ee14564b35d4cc70430d18a0a47633b43",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "よみもノベルさがせあそび"
+    },
+    {
+      "id": "official-7233",
+      "title": "Maizen escape map illustration",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7233.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2025/06/よみもノベルMAP.jpg",
+      "source_page": "https://www.maizen.com/%e3%82%88%e3%81%bf%e3%82%82%e3%83%8e%e3%83%99%e3%83%abmap/",
+      "source_type": "official",
+      "width": 892,
+      "height": 632,
+      "bytes": 242899,
+      "has_alpha": false,
+      "sha256": "a68766ac9478e084d97f83aa96f92a611db29f97d57e3d9e6513d953c519ce48",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "よみもノベルMAP"
+    },
+    {
+      "id": "official-7210",
+      "title": "Maizen 360-degree puzzle cover",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7210.png",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2025/06/シールブック書影.png",
+      "source_page": "https://www.maizen.com/%e3%82%b7%e3%83%bc%e3%83%ab%e3%83%96%e3%83%83%e3%82%af%e6%9b%b8%e5%bd%b1/",
+      "source_type": "official",
+      "width": 1065,
+      "height": 1445,
+      "bytes": 414368,
+      "has_alpha": false,
+      "sha256": "801e2232a3f2681d944f6c16631e193571206b8cfd95d8cfb62e7951ae122ee5",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "シールブック書影"
+    },
+    {
+      "id": "official-7200",
+      "title": "Maizen action sticker collection",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7200.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2025/06/ステッカー付録4巻.jpg",
+      "source_page": "https://www.maizen.com/%e3%82%b9%e3%83%86%e3%83%83%e3%82%ab%e3%83%bc%e4%bb%98%e9%8c%b24%e5%b7%bb/",
+      "source_type": "official",
+      "width": 811,
+      "height": 1198,
+      "bytes": 218858,
+      "has_alpha": false,
+      "sha256": "bff10c90d0614ec7916b7cf862b177029266bfb21d2ee783f1548954a12876c1",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "ステッカー付録4巻"
+    },
+    {
+      "id": "official-7185",
+      "title": "Maizen 10th anniversary artwork",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7185.png",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2025/05/Maizen_10th_JP_orange.png",
+      "source_page": "https://www.maizen.com/news/newsja_20250517/attachment/maizen_10th_jp_orange/",
+      "source_type": "official",
+      "width": 2048,
+      "height": 2048,
+      "bytes": 379392,
+      "has_alpha": false,
+      "sha256": "8cab9077a8d17d77c8385ed7d5b77de0fd8325bdde2cdb5c595869ecb401bad0",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "Maizen_10th_JP_orange"
+    },
+    {
+      "id": "official-7166",
+      "title": "Maizen celebration cake",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-7166.png",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2025/04/10周年ケーキ.png",
+      "source_page": "https://www.maizen.com/news/newsja_20250418/attachment/10%e5%91%a8%e5%b9%b4%e3%82%b1%e3%83%bc%e3%82%ad/",
+      "source_type": "official",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 404298,
+      "has_alpha": false,
+      "sha256": "0d30914f8dab6776af7f098765ebe52a292bd36dd08b6a945de527479804e496",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "10周年ケーキ"
+    },
+    {
+      "id": "official-6229",
+      "title": "JJ plush rear view",
+      "characters": [
+        "jj"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-6229.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2024/08/JJ5-scaled.jpg",
+      "source_page": "https://www.maizen.com/jj5/",
+      "source_type": "official",
+      "width": 1707,
+      "height": 2560,
+      "bytes": 50662,
+      "has_alpha": false,
+      "sha256": "42db2c9c1cd1e94bcac4b49e108a22a57dd84d4b9b6c8f743828fd7834f31089",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "JJ5"
+    },
+    {
+      "id": "official-6228",
+      "title": "JJ plush side view",
+      "characters": [
+        "jj"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-6228.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2024/08/JJ4-scaled.jpg",
+      "source_page": "https://www.maizen.com/jj4/",
+      "source_type": "official",
+      "width": 1707,
+      "height": 2560,
+      "bytes": 43633,
+      "has_alpha": false,
+      "sha256": "3e77f93cb23e326483b0e692eaedbbfaf132a42859327b426d66465bd81865e2",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "JJ4"
+    },
+    {
+      "id": "official-6227",
+      "title": "JJ plush front view",
+      "characters": [
+        "jj"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-6227.png",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2024/08/JJ3-768x1152.png",
+      "source_page": "https://www.maizen.com/jj3/",
+      "source_type": "official",
+      "width": 768,
+      "height": 1152,
+      "bytes": 994870,
+      "has_alpha": true,
+      "sha256": "eaaecd6b8351b67712b9850f3d607e1c326ceafe54c6669d6a82f1b8ccac8291",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "original_full_resolution_url": "https://www.maizen.com/wp-content/uploads/2024/08/JJ3.png",
+      "source_variant": "Publisher medium_large version",
+      "source_title": "JJ3"
+    },
+    {
+      "id": "official-4846",
+      "title": "Mikey cushion",
+      "characters": [
+        "mikey"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-4846.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2023/04/まいぜんシスターズ-めちゃでかぬいぐるみクッションマイッキー.jpg",
+      "source_page": "https://www.maizen.com/maizen_cushion_mikey_may/",
+      "source_type": "official",
+      "width": 1040,
+      "height": 1040,
+      "bytes": 248608,
+      "has_alpha": false,
+      "sha256": "2e6c9b3650bbed2ce7ab723f091069a63e52cc8d07d90dd944a29eba89dd63bd",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "maizen_cushion_mikey_may"
+    },
+    {
+      "id": "official-4731",
+      "title": "JJ cushion",
+      "characters": [
+        "jj"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-4731.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2023/03/まいぜんシスターズ-めちゃでかぬいぐるみクッションぜんいち.jpg",
+      "source_page": "https://www.maizen.com/maizen_cushion_apr/",
+      "source_type": "official",
+      "width": 1040,
+      "height": 1040,
+      "bytes": 235455,
+      "has_alpha": false,
+      "sha256": "e5eb86c2ea963384b6fbd71efd94988163536b8951b07828d274685fdcdcb359",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "maizen_cushion_apr"
+    },
+    {
+      "id": "official-4596",
+      "title": "Mikey plush promotional photo",
+      "characters": [
+        "mikey"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-4596.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2022/12/まいぜんシスターズ-めちゃでかぬいぐるみマイッキー～ないしょばなし～.jpg",
+      "source_page": "https://www.maizen.com/maizen_dnui_nonbiri_sep-2/",
+      "source_type": "official",
+      "width": 900,
+      "height": 900,
+      "bytes": 54120,
+      "has_alpha": false,
+      "sha256": "dd674871537b030df8e89ce59cfe1fa689fb206a39fdf9de118bc1c30466e2a3",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "MAIZEN_Dnui_nonbiri_sep"
+    },
+    {
+      "id": "official-4515",
+      "title": "JJ plush promotional photo",
+      "characters": [
+        "jj"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-4515.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2022/12/まいぜんシスターズ-めちゃでかぬいぐるみぜんいち～ないしょばなし～.jpg",
+      "source_page": "https://www.maizen.com/maizen_dnui_nonbiri_sep/",
+      "source_type": "official",
+      "width": 900,
+      "height": 900,
+      "bytes": 81290,
+      "has_alpha": false,
+      "sha256": "c11a17b5a2ca23ba61d6010ea24d7d14dcd913fceffee189de7bb1121fbd2329",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "MAIZEN_Dnui_nonbiri_sep"
+    },
+    {
+      "id": "official-4038",
+      "title": "Maizen beach plush collection",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-4038.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2022/09/まいぜんシスターズ-ぬいぐるみ～マイッキーダンス～.jpg",
+      "source_page": "https://www.maizen.com/gk_bignui_oug/",
+      "source_type": "official",
+      "width": 900,
+      "height": 900,
+      "bytes": 203855,
+      "has_alpha": false,
+      "sha256": "68891410183d9e21947a081ce4c92f44ce8f962c9de238185372df11d2252e95",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "GK_bignui_oug"
+    },
+    {
+      "id": "official-3892",
+      "title": "Mikey classic plush",
+      "characters": [
+        "mikey"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-3892.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2022/07/まいぜんシスターズ-めちゃでかぬいぐるみマイッキー～わーいわーい～.jpg",
+      "source_page": "https://www.maizen.com/maizen_ndnui_zenichi_jul/",
+      "source_type": "official",
+      "width": 900,
+      "height": 900,
+      "bytes": 131075,
+      "has_alpha": false,
+      "sha256": "162e1da6c8cbc3b886eaec15e0177300f422ac693edc5acf5d401c56b95ba9fb",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "MAIZEN_NDnui_zenichi_jul"
+    },
+    {
+      "id": "official-3816",
+      "title": "JJ classic plush",
+      "characters": [
+        "jj"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-3816.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2022/06/まいぜんシスターズ-めちゃでかぬいぐるみぜんいち～わーいわーい～.jpg",
+      "source_page": "https://www.maizen.com/pokemon_hokori_mokuro_jun-2/",
+      "source_type": "official",
+      "width": 900,
+      "height": 900,
+      "bytes": 596533,
+      "has_alpha": false,
+      "sha256": "37501a6c0f2b16dd9d67afeaaeb16839991609e51fe051ade5832ff7ca302c5c",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "pokemon_hokori_mokuro_jun"
+    },
+    {
+      "id": "official-3404",
+      "title": "JJ shoulder bag",
+      "characters": [
+        "jj"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-3404.png",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2022/05/【ナムコ限定】まいぜんシスターズ-ぜんいちぬいぐるみリュック.png",
+      "source_page": "https://www.maizen.com/%e3%80%90%e3%83%8a%e3%83%a0%e3%82%b3%e9%99%90%e5%ae%9a%e3%80%91%e3%81%be%e3%81%84%e3%81%9c%e3%82%93%e3%82%b7%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ba-%e3%81%9c%e3%82%93%e3%81%84%e3%81%a1%e3%81%ac%e3%81%84/",
+      "source_type": "official",
+      "width": 900,
+      "height": 900,
+      "bytes": 245127,
+      "has_alpha": false,
+      "sha256": "f5b78a27f9255e826fe1dc5f4c582e52301e0113e7f77a4cb1b9cb098441ca61",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "【ナムコ限定】まいぜんシスターズ-ぜんいちぬいぐるみリュック"
+    },
+    {
+      "id": "official-3147",
+      "title": "Mikey sleeping keychain",
+      "characters": [
+        "mikey"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-3147.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2022/05/マイッキーＣ.jpg",
+      "source_page": "https://www.maizen.com/%e3%83%9e%e3%82%a4%e3%83%83%e3%82%ad%e3%83%bc%ef%bd%83/",
+      "source_type": "official",
+      "width": 1253,
+      "height": 1253,
+      "bytes": 24757,
+      "has_alpha": false,
+      "sha256": "d2efad527ca4f35a734abd85b800796d9170f337ab7e2b591cea045be2655780",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "マイッキーＣ"
+    },
+    {
+      "id": "official-3146",
+      "title": "Mikey shell keychain",
+      "characters": [
+        "mikey"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-3146.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2022/05/マイッキーＢ.jpg",
+      "source_page": "https://www.maizen.com/%e3%83%9e%e3%82%a4%e3%83%83%e3%82%ad%e3%83%bc%ef%bd%82/",
+      "source_type": "official",
+      "width": 1253,
+      "height": 1253,
+      "bytes": 22881,
+      "has_alpha": false,
+      "sha256": "72d58788feca028f37729f8a924947e5d11e68f114e7ca6e206e62926ab54ae4",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "マイッキーＢ"
+    },
+    {
+      "id": "official-3145",
+      "title": "Mikey seated keychain",
+      "characters": [
+        "mikey"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-3145.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2022/05/マイッキーA.jpg",
+      "source_page": "https://www.maizen.com/%e3%83%9e%e3%82%a4%e3%83%83%e3%82%ad%e3%83%bca/",
+      "source_type": "official",
+      "width": 1253,
+      "height": 1253,
+      "bytes": 22298,
+      "has_alpha": false,
+      "sha256": "f965a13ba4bfc6403a05c8284bd1ebf52b76b4a58c15603ac78c0c97111e4ac6",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "マイッキーA"
+    },
+    {
+      "id": "official-3144",
+      "title": "JJ swimming keychain",
+      "characters": [
+        "jj"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-3144.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2022/05/ぜんいちC.jpg",
+      "source_page": "https://www.maizen.com/211213%e3%81%be%e3%81%84%e3%81%9b%e3%82%99%e3%82%93%e3%82%b7%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%b9%e3%82%99%e3%83%a9%e3%83%8f%e3%82%99%e3%83%bc3/",
+      "source_type": "official",
+      "width": 1253,
+      "height": 1253,
+      "bytes": 29131,
+      "has_alpha": false,
+      "sha256": "ea390b5a0f8f5f67e3c68cf8c694dc2ebf5c2ced06e76c000573c92606518b51",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "211213まいぜんシスターズラバー3"
+    },
+    {
+      "id": "official-3143",
+      "title": "JJ running keychain",
+      "characters": [
+        "jj"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-3143.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2022/05/ぜんいちB.jpg",
+      "source_page": "https://www.maizen.com/%e3%81%9c%e3%82%93%e3%81%84%e3%81%a1b/",
+      "source_type": "official",
+      "width": 1253,
+      "height": 1253,
+      "bytes": 25953,
+      "has_alpha": false,
+      "sha256": "fbeae754adf810a76454c9c27fd3a53641c7fbe4b7b444286cf37f18d1d3778c",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "ぜんいちB"
+    },
+    {
+      "id": "official-3142",
+      "title": "JJ standing keychain",
+      "characters": [
+        "jj"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-3142.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2022/05/ぜんいちA.jpg",
+      "source_page": "https://www.maizen.com/%e3%81%9c%e3%82%93%e3%81%84%e3%81%a1a/",
+      "source_type": "official",
+      "width": 1253,
+      "height": 1253,
+      "bytes": 27202,
+      "has_alpha": false,
+      "sha256": "7da152d917efcd461239bc7473354f496cebfd6972702df7165376464e4b1986",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "ぜんいちA"
+    },
+    {
+      "id": "official-3017",
+      "title": "JJ and Mikey at the window coloring sheet",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "coloring",
+      "path": "assets/official-3017.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2022/04/ぬりえ4.jpg",
+      "source_page": "https://www.maizen.com/download/attachment/%e3%81%ac%e3%82%8a%e3%81%884-3/",
+      "source_type": "official",
+      "width": 1000,
+      "height": 707,
+      "bytes": 130713,
+      "has_alpha": false,
+      "sha256": "a455af800c8e746c7f1a0b48d279ad89361e340fae674b82014c900a6eee92fa",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "ぬりえ4"
+    },
+    {
+      "id": "official-3016",
+      "title": "JJ and Mikey running coloring sheet",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "coloring",
+      "path": "assets/official-3016.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2022/04/ぬりえ3.jpg",
+      "source_page": "https://www.maizen.com/download/attachment/%e3%81%ac%e3%82%8a%e3%81%883-2/",
+      "source_type": "official",
+      "width": 1000,
+      "height": 707,
+      "bytes": 151666,
+      "has_alpha": false,
+      "sha256": "17e8f08ae492adecd8eeb2325e35a683a295539d555331f8e8a22ba5ca469fc9",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "ぬりえ3"
+    },
+    {
+      "id": "official-2232",
+      "title": "JJ socks side view",
+      "characters": [
+        "jj"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-2232.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2022/02/⑦MZパペットぜんいち_足型-scaled.jpg",
+      "source_page": "https://www.maizen.com/%e2%91%a6mz%e3%83%91%e3%83%9a%e3%83%83%e3%83%88%e3%81%9c%e3%82%93%e3%81%84%e3%81%a1_%e8%b6%b3%e5%9e%8b/",
+      "source_type": "official",
+      "width": 2560,
+      "height": 2560,
+      "bytes": 327682,
+      "has_alpha": false,
+      "sha256": "4c5b7fa3bd6f814e54d082347b56e61296246ac30e814baee7f922853ff3ec72",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "⑦MZパペットぜんいち_足型"
+    },
+    {
+      "id": "official-2231",
+      "title": "Mikey socks side view",
+      "characters": [
+        "mikey"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-2231.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2022/02/⑧MZパペットマイッキー_足型-scaled.jpg",
+      "source_page": "https://www.maizen.com/%e2%91%a7mz%e3%83%91%e3%83%9a%e3%83%83%e3%83%88%e3%83%9e%e3%82%a4%e3%83%83%e3%82%ad%e3%83%bc_%e8%b6%b3%e5%9e%8b-2/",
+      "source_type": "official",
+      "width": 2560,
+      "height": 2560,
+      "bytes": 432338,
+      "has_alpha": false,
+      "sha256": "a8fee56e643e875e1a6654839d1e8c4e2731e3afb7b4a7756b0d76faf060a157",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "⑧MZパペットマイッキー_足型"
+    },
+    {
+      "id": "official-2210",
+      "title": "Mikey socks front view",
+      "characters": [
+        "mikey"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-2210.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2022/02/⑧MZパペットマイッキー-scaled.jpg",
+      "source_page": "https://www.maizen.com/%e2%91%a7mz%e3%83%91%e3%83%9a%e3%83%83%e3%83%88%e3%83%9e%e3%82%a4%e3%83%83%e3%82%ad%e3%83%bc/",
+      "source_type": "official",
+      "width": 2560,
+      "height": 2560,
+      "bytes": 762164,
+      "has_alpha": false,
+      "sha256": "f015d7f5edf75a4d69f62e2dc1f8093e181fea82df6e12022680b65c2204e297",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "⑧MZパペットマイッキー"
+    },
+    {
+      "id": "official-2208",
+      "title": "JJ socks front view",
+      "characters": [
+        "jj"
+      ],
+      "category": "merchandise-reference",
+      "path": "assets/official-2208.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2022/02/⑦MZパペットぜんいち-scaled.jpg",
+      "source_page": "https://www.maizen.com/%e2%91%a6mz%e3%83%91%e3%83%9a%e3%83%83%e3%83%88%e3%81%9c%e3%82%93%e3%81%84%e3%81%a1/",
+      "source_type": "official",
+      "width": 2560,
+      "height": 2560,
+      "bytes": 473747,
+      "has_alpha": false,
+      "sha256": "9bc78d75e4462fe42c71c928d9f8a5eb74f61e46b00b0753fce9d3c38880ac97",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "⑦MZパペットぜんいち"
+    },
+    {
+      "id": "official-461",
+      "title": "JJ classic standing character",
+      "characters": [
+        "jj"
+      ],
+      "category": "character-art",
+      "path": "assets/official-461.png",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2021/04/Untitled-design-13.png",
+      "source_page": "https://www.maizen.com/about/attachment/untitled-design-13/",
+      "source_type": "official",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 72796,
+      "has_alpha": false,
+      "sha256": "b6700beb004a397de2bfcf6b934bd6c7b30bc5e48332320d73393db2e43b5ce4",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "JJ"
+    },
+    {
+      "id": "official-287",
+      "title": "Mikey flashlight character",
+      "characters": [
+        "mikey"
+      ],
+      "category": "character-art",
+      "path": "assets/official-287.png",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2021/02/ロボマイッキー.png",
+      "source_page": "https://www.maizen.com/about-us/attachment/%e3%83%ad%e3%83%9b%e3%82%99%e3%83%9e%e3%82%a4%e3%83%83%e3%82%ad%e3%83%bc/",
+      "source_type": "official",
+      "width": 375,
+      "height": 476,
+      "bytes": 10865,
+      "has_alpha": false,
+      "sha256": "dc6318e0463870e5a575789a40e38ae18cdd0278db4485ee9966dc01424363c9",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "ロボマイッキー"
+    },
+    {
+      "id": "official-7856",
+      "title": "Maizen programming workbook cover",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7856.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2026/08/まいぜんドリルプログラミング表紙.jpg",
+      "source_page": "https://www.maizen.com/%e3%81%be%e3%81%84%e3%81%9c%e3%82%93%e3%83%89%e3%83%aa%e3%83%ab%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e8%a1%a8%e7%b4%99/",
+      "source_type": "official",
+      "width": 640,
+      "height": 907,
+      "bytes": 92690,
+      "has_alpha": false,
+      "sha256": "2100dde2fdd772a1024d29b23418a1df6c671072c195e3608905ffd7c9c7b292",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "まいぜんドリルプログラミング表紙"
+    },
+    {
+      "id": "official-7850",
+      "title": "Maizen alphabet workbook cover",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7850.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2026/08/まいぜんドリルアルファベットローマ字表紙.jpg",
+      "source_page": "https://www.maizen.com/%e3%81%be%e3%81%84%e3%81%9c%e3%82%93%e3%83%89%e3%83%aa%e3%83%ab%e3%82%a2%e3%83%ab%e3%83%95%e3%82%a1%e3%83%99%e3%83%83%e3%83%88%e3%83%ad%e3%83%bc%e3%83%9e%e5%ad%97%e8%a1%a8%e7%b4%99/",
+      "source_type": "official",
+      "width": 640,
+      "height": 906,
+      "bytes": 98762,
+      "has_alpha": false,
+      "sha256": "92045b578fbbfe81739e95a6b612d1c6e2bcb601cbd23c61913bf099c13624ec",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "まいぜんドリルアルファベットローマ字表紙"
+    },
+    {
+      "id": "official-7825",
+      "title": "Maizen Japanese history quiz cover",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7825.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2026/08/まいぜんシスターズの日本の歴史ふしぎクイズ_書影-768x1092.jpg",
+      "source_page": "https://www.maizen.com/%e3%81%be%e3%81%84%e3%81%9c%e3%82%93%e3%82%b7%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ba%e3%81%ae%e6%97%a5%e6%9c%ac%e3%81%ae%e6%ad%b4%e5%8f%b2%e3%81%b5%e3%81%97%e3%81%8e%e3%82%af%e3%82%a4%e3%82%ba_%e6%9b%b8/",
+      "source_type": "official",
+      "width": 768,
+      "height": 1092,
+      "bytes": 263163,
+      "has_alpha": false,
+      "sha256": "a55194b9957691b4603dbd468d89fce2d1f1306d97e76ee8793d08580d9644e8",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "original_full_resolution_url": "https://www.maizen.com/wp-content/uploads/2026/08/まいぜんシスターズの日本の歴史ふしぎクイズ_書影.jpg",
+      "source_variant": "Publisher medium_large version",
+      "source_title": "まいぜんシスターズの日本の歴史ふしぎクイズ_書影"
+    },
+    {
+      "id": "official-7819",
+      "title": "Maizen everyday science quiz cover",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7819.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2026/08/まいぜんシスターズのみのまわりのふしぎクイズ_書影-768x1092.jpg",
+      "source_page": "https://www.maizen.com/%e3%81%be%e3%81%84%e3%81%9c%e3%82%93%e3%82%b7%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ba%e3%81%ae%e3%81%bf%e3%81%ae%e3%81%be%e3%82%8f%e3%82%8a%e3%81%ae%e3%81%b5%e3%81%97%e3%81%8e%e3%82%af%e3%82%a4%e3%82%ba_/",
+      "source_type": "official",
+      "width": 768,
+      "height": 1092,
+      "bytes": 282157,
+      "has_alpha": false,
+      "sha256": "0c6552628c83f7134bdb2183cfd77a33ba517fb966025517054b791b7eca0b4c",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "original_full_resolution_url": "https://www.maizen.com/wp-content/uploads/2026/08/まいぜんシスターズのみのまわりのふしぎクイズ_書影.jpg",
+      "source_variant": "Publisher medium_large version",
+      "source_title": "まいぜんシスターズのみのまわりのふしぎクイズ_書影"
+    },
+    {
+      "id": "official-7806",
+      "title": "Maizen countries of the world cover",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7806.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2026/08/まいぜん世界書影.jpg",
+      "source_page": "https://www.maizen.com/%e3%81%be%e3%81%84%e3%81%9c%e3%82%93%e4%b8%96%e7%95%8c%e6%9b%b8%e5%bd%b1/",
+      "source_type": "official",
+      "width": 634,
+      "height": 923,
+      "bytes": 272833,
+      "has_alpha": false,
+      "sha256": "e5b26d81e2f14182fb93e3d114665d01c88b6ba94853ca03ac5d5671ff642bd6",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "まいぜん世界書影"
+    },
+    {
+      "id": "official-7787",
+      "title": "Play with Maizen activity book cover",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7787.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2026/08/まいぜんシスターズであそぼ表紙.jpg",
+      "source_page": "https://www.maizen.com/%e3%81%be%e3%81%84%e3%81%9c%e3%82%93%e3%82%b7%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ba%e3%81%a7%e3%81%82%e3%81%9d%e3%81%bc%e8%a1%a8%e7%b4%99/",
+      "source_type": "official",
+      "width": 1000,
+      "height": 708,
+      "bytes": 217818,
+      "has_alpha": false,
+      "sha256": "a7ea0afdd7b1b44107e8053cd3d6ef6e98a00eea0ef544ee5600ff21edd128a9",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "まいぜんシスターズであそぼ表紙"
+    },
+    {
+      "id": "official-7653",
+      "title": "Maizen comic volume 5 cover",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7653.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2026/03/コミック5巻書影.jpg",
+      "source_page": "https://www.maizen.com/%e3%82%b3%e3%83%9f%e3%83%83%e3%82%af5%e5%b7%bb%e6%9b%b8%e5%bd%b1/",
+      "source_type": "official",
+      "width": 1609,
+      "height": 2481,
+      "bytes": 323007,
+      "has_alpha": false,
+      "sha256": "be3cc5afe190f7a54dcc89fbbd7ac3ce4d5764abb14add01fa2e522c17982e28",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "コミック5巻書影"
+    },
+    {
+      "id": "official-7619",
+      "title": "Maizen reading workbook level 2 cover",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7619.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2026/03/maizen2_cover-scaled.jpg",
+      "source_page": "https://www.maizen.com/%e3%81%be%e3%81%84%e3%81%9c%e3%82%93%e3%83%89%e3%83%aa%e3%83%ab%e8%a1%a8%e7%b4%991-4-%e6%96%87%e7%ab%a0%e8%aa%ad%e8%a7%a32-0109/",
+      "source_type": "official",
+      "width": 1813,
+      "height": 2560,
+      "bytes": 226773,
+      "has_alpha": false,
+      "sha256": "ba98f0176bb0fa9606caf55959eea7337df9f3022629010beb2497c4a5fa1194",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "まいぜんドリル表紙1-4-文章読解2-0109"
+    },
+    {
+      "id": "official-7613",
+      "title": "Maizen reading workbook level 1 cover",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7613.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2026/03/maizen1_cover-scaled.jpg",
+      "source_page": "https://www.maizen.com/%e3%81%be%e3%81%84%e3%81%9c%e3%82%93%e3%83%89%e3%83%aa%e3%83%ab%e8%a1%a8%e7%b4%991-4-%e6%96%87%e7%ab%a0%e8%aa%ad%e8%a7%a31-0109/",
+      "source_type": "official",
+      "width": 1813,
+      "height": 2560,
+      "bytes": 246379,
+      "has_alpha": false,
+      "sha256": "1333cedd57b41235628b7064ecce425ac12a51f68490825931b229eec9bf0301",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "まいぜんドリル表紙1-4-文章読解1-0109"
+    },
+    {
+      "id": "official-7607",
+      "title": "Maizen gamebook adventure cover",
+      "characters": [
+        "jj",
+        "mikey"
+      ],
+      "category": "illustration-reference",
+      "path": "assets/official-7607.jpg",
+      "source_url": "https://www.maizen.com/wp-content/uploads/2026/03/ゲームブック2書影.jpg",
+      "source_page": "https://www.maizen.com/%e3%82%b2%e3%83%bc%e3%83%a0%e3%83%96%e3%83%83%e3%82%af2%e6%9b%b8%e5%bd%b1/",
+      "source_type": "official",
+      "width": 721,
+      "height": 1000,
+      "bytes": 129879,
+      "has_alpha": false,
+      "sha256": "bc92c9aa7338f55abfbd4bc8e592c67b6ee83f546df6107feeb2dfa998ba52c3",
+      "retrieved_at": "2026-09-25",
+      "rights": "Copyright Maizen / respective rights holders. Source publication is not a grant of an open-content license.",
+      "source_title": "ゲームブック2書影"
+    }
+  ]
+}
